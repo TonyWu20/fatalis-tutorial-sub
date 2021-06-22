@@ -23,10 +23,12 @@
     > 四足姿态
 
 3.  roar
-    ![Roar](./Screenshots/MHXX 　近接武器でミラボレアスを狩ろう！　立ち回り解説-pYVGnCFLwNw-0001.png)
+    ![Roar](Screenshots/0001.png)
 
-                Eng:
-                > It has a long effective time that can be avoided by **Absolute Evasion/Readiness**. The range is dome-shaped and extends to the middle of the tail on the back side. Its head swings from left to right and then back. When the head swings back to the apex, the roar judgement disappears.
+    Eng:
 
-                中文：
-                > 四足姿态的吼叫判定时间较长，绝对回避可以规避掉。判定范围是一个圆弧状，往后延伸到尾巴中段。头部会从左向右来回摆动，回正到最高点的时候吼的判定消失。
+    > It has a long effective time that can be avoided by **Absolute Evasion/Readiness**. The range is dome-shaped and extends to the middle of the tail on the back side. Its head swings from left to right and then back. When the head swings back to the apex, the roar judgement disappears.
+
+    中文：
+
+    > 四足姿态的吼叫判定时间较长，可以使用绝对回避规避掉。判定范围是一个圆弧状，往后延伸到尾巴中段。头部会从左向右来回摆动，回正到最高点的时候吼的判定消失。
